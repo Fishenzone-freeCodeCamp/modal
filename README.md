@@ -1,1 +1,1 @@
-# [Modal](https://fishenzone.github.io/modal/)
+# [Modal](https://fishenzone-freecodecamp.github.io/modal/)
